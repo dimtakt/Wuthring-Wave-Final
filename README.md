@@ -1,4 +1,6 @@
-### DX11 3D Final : 명조
+<div align=center>
+
+## DX11 3D Final : 명조
 
 <img width="700" src="https://img.sdtr.dev/images/2026-09-06_220328/portfolio04.png">
 
@@ -35,8 +37,24 @@
   </tr>
 </table>
 
+<hr>
+
+### 팀원 목록
+
+| 이름 | 역할 | 설명 |
+| :---: | :--- | :--- |
+| **박지호(팀장)** | **MainFramework** | 메인 프레임워크, 카메라, 최적화, 레벨 디자인, 천국 맵 배치|
+| **김정훈** | **Shader** | 디퍼드 렌더링 파이프라인, SFX |
+| **노영훈** | **Player / Animation** | 플레이어 상태 제어, 애니메이션 제어 |
+| **임은비** | **Effects** | 전투 및 환경 Effect |
+| **이진호** | **AI / Monster** | 몬스터 전투 AI, NPC |
+| **김기훈** | **UI System** | UI 인터페이스, 미니게임, 스크립트 |
+| **신우혁** | **Map** | 맵 에디터, 1Stage 배치 |
+
+<hr>
+
 <details>
-  <summary>세부 정보</summary>
+  <summary>Highlight & Flow Details</summary>
 
 ### 게임 플레이 하이라이트
 
@@ -78,17 +96,6 @@
 
 <img src="https://github.com/PJH1998/Wuthring-Wave-Final/blob/main/Styles/FlowChart-Prototype.png" width="100%">
 
-### 팀원 목록
-
-| 이름 | 역할 | 설명 |
-| :---: | :--- | :--- |
-| **박지호(팀장)** | **MainFramework** | 메인 프레임워크, 카메라, 최적화, 레벨 디자인, 천국 맵 배치|
-| **김정훈** | **Shader** | 디퍼드 렌더링 파이프라인, SFX |
-| **노영훈** | **Player / Animation** | 플레이어 상태 제어, 애니메이션 제어 |
-| **임은비** | **Effects** | 전투 및 환경 Effect |
-| **이진호** | **AI / Monster** | 몬스터 전투 AI, NPC |
-| **김기훈** | **UI System** | UI 인터페이스, 미니게임, 스크립트 |
-| **신우혁** | **Map** | 맵 에디터, 1Stage 배치 |
 </details>
 
 
