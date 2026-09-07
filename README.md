@@ -30,7 +30,7 @@
       <code>FMOD</code>,
       <a href="https://github.com/ocornut/imgui"><code>ImGui</code></a>,
       <a href="https://github.com/assimp/assimp"><code>Assimp</code></a>,
-      <a href="https://github.com/NVIDIA-Omniverse/PhysX"><code>PhysX</code></a>,
+      <a href="https://github.com/jrouwe/joltphysics"><code>Jolt Physics</code></a>,
       <a href="https://github.com/freetype/freetype"><code>FreeType</code></a>,
       <a href="https://github.com/nlohmann/json"><code>Nlohmann JSON</code></a>
     </td>
